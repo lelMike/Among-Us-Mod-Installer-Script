@@ -4,3 +4,5 @@ Simple to use Mod Installer Script for windows 64bit systems, based on a .bat sc
 The script allows the user to download the mod to the desktop, or uninstall the mod completely. This keeps the mod seperate from the standard steam version of Among Us.
 
 This is a draft version just so it works, it will be improved in the future.
+
+All you have to do, is unpack the .zip file, and run the .bat installer as administrator.
